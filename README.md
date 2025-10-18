@@ -1,0 +1,1 @@
+A repository for my Embedded System Design undegraduate course, with each weeks contents contained in a folder. For the course project, I worked on a Turtlebot with Raspberry Pi, whose details can be found in the Turtlebot folder.
